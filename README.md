@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillelazzari
 - 👀 I’m interested in sports, sports management, sports data, databases, making friends and teamwork
-- 🌱 I’m currently learning Data Science in Sport
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python, r, Power BI, Tableau, etc 
 - 📫 How to reach me https://www.instagram.com/guillelazzari/
 
